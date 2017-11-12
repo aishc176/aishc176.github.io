@@ -1,5 +1,5 @@
 body {
-	font-family:'Satisfy', cursive;
+	font-family: 'Homemade Apple', cursive;
     background-image: url("../img/piano-playing-gif.gif");
     background-size: cover;
 }
@@ -27,7 +27,7 @@ p {
 }
  
  .jumbotron {
-font-family: 'Playball', cursive;
+font-family: 'Homemade Apple', cursive;
 color: gold;
 background-color: transparent; !important;
 }
