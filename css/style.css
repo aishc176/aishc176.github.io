@@ -1,0 +1,32 @@
+body {
+	font-family:'Satisfy', cursive;
+    background-color: black;
+    background-repeat: repeat-x;
+}
+
+.img {
+	max-width: 100%;
+	max-height: auto;
+}
+
+p {
+	color: #0b306b;	
+}
+
+.profile-pic {
+	max-width: 100%;
+	max-height: 1500px;
+}
+
+.profile-title {
+	color: #8fb9fc;
+}
+
+.presents-progress {
+	background-color: orange;
+}
+ 
+ .jumbotron {
+color: white;
+background-color: transparent; !important;
+}
