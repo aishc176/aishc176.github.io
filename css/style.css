@@ -1,7 +1,7 @@
 body {
 	font-family:'Satisfy', cursive;
-    background-color: black;
-    background-repeat: repeat-x;
+    background-image: url("../img/piano-playing-gif.gif");
+    background-size: cover;
 }
 
 .img {
@@ -27,6 +27,11 @@ p {
 }
  
  .jumbotron {
-color: white;
+font-family: 'Playball', cursive;
+color: gold;
 background-color: transparent; !important;
+}
+
+.coverbox {
+	border:none;
 }
